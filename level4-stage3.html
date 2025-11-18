@@ -30,7 +30,7 @@
     <label for="dateInput">Date:</label>
     <input type="date" id="dateInput" value="2000-01-01" />
     <br><br>
-    <label for="timeInput">Time (HH:MM):</label>
+    <label for="timeInput">Time:</label>
     <input type="time" id="timeInput" value="00:00" />
     <br><br>
     <button id="submitBtn">Submit</button>
@@ -56,9 +56,9 @@
     const submitBtn = document.getElementById("submitBtn");
     const levelEnd = document.getElementById("levelEnd");
     
-    // Correct date and time from the clues: Date: 2023-01-01, Time: 15:30
-    const correctDate = "2023-01-01";
-    const correctTime = "15:30";
+    // Correct date and time from the clues: Date: 1987-04-16, Time: 11:27
+    const correctDate = "1987-04-16";
+    const correctTime = "11:27";
     
     // Function to update progress in localStorage
     function unlockNextLevel(levelNumber) {
