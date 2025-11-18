@@ -10,7 +10,9 @@ You can play the web demo directly using GitHub Pages here:
 
 > **DEMO LINK:**
 >
-> 🔗 **[https://patoszop.github.io/Cluefinders-The-Game/hub.html]**  TOFIX: ZJR na ZLR, dodać media CSS, wymuszenie motywu strony na biały tak aby wtyczki przeglądarkowe nie nadpisywały wyglądu strony
+> 🔗 **[https://patoszop.github.io/Cluefinders-The-Game/hub.html]**
+> TOFIX: ZJR na ZLR, dodać media CSS, wymuszenie motywu strony na biały tak aby wtyczki przeglądarkowe nie nadpisywały wyglądu strony
+> 
 
 ---
 
